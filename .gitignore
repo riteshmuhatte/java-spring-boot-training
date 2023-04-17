@@ -1,2 +1,5 @@
 
 .vscode/settings.json
+Calculator/.classpath
+*.class
+Calculator/.project
