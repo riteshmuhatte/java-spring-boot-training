@@ -4,3 +4,5 @@ Calculator/.classpath
 *.class
 Calculator/.project
 .classpath
+*.prefs
+Calc/.project
