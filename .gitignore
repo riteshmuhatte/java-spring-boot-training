@@ -1,8 +1,9 @@
 
 .vscode/settings.json
-Calculator/.classpath
-*.class
-Calculator/.project
-.classpath
-*.prefs
+.gitignore
+*/.class
+Calc/.classpath
 Calc/.project
+*.prefs
+*.class
+.classpath
